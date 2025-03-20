@@ -173,3 +173,5 @@ test12 (testing using local cloned repo)
 test 13 (testing from remote clone)
 ---
 test 14 (test 13 seemed to work, double checking process in test 14 from remote clone)
+---
+test 15
