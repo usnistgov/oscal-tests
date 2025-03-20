@@ -177,3 +177,5 @@ test 14 (test 13 seemed to work, double checking process in test 14 from remote 
 test 15
 ---
 test 16
+---
+test 17 (using git pull -r origin main)
