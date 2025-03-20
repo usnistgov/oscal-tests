@@ -169,4 +169,5 @@ test10 (main and develop no linear)
 test11 (retrying the merging with main and develop using Linear History setting disabled)
 ---
 test12 (testing using local cloned repo)
-
+---
+test 13 (testing from remote clone)
