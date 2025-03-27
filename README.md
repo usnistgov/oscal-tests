@@ -182,4 +182,6 @@ test 17 (using git pull -r origin main)
 ---
 test 18 (dev-liniarh)
 --- 
-test 19 (liniarh) 
+test 19 (liniarh -pr) 
+---
+test 20 (m&d liniarh)
